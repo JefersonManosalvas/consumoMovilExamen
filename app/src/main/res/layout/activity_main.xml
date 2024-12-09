@@ -25,6 +25,8 @@
         android:id="@+id/textView_respuesta"
         android:layout_width="218dp"
         android:layout_height="101dp"
+        android:textAlignment="center"
+        android:textColor="#2196F3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.533"
